@@ -12,3 +12,6 @@
 
 # Canva
 [Canva](https://canva.link/9q7470sa5jc8kze)
+
+# GitHub
+[GitHub](https://github.com/Chriss5-2/PCs-IHC-26_1)
